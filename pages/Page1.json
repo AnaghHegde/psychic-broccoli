@@ -78,12 +78,52 @@
               "renderMode": "CANVAS",
               "isLoading": false,
               "borderRadius": "0"
+            },
+            {
+              "widgetName": "CheckboxGroup1",
+              "displayName": "Checkbox Group",
+              "iconSVG": "/static/media/icon.ecb38479.svg",
+              "topRow": 37,
+              "bottomRow": 43,
+              "parentRowSpace": 10,
+              "type": "CHECKBOX_GROUP_WIDGET",
+              "hideCard": false,
+              "animateLoading": true,
+              "parentColumnSpace": 12.5625,
+              "leftColumn": 44,
+              "options": [
+                {
+                  "label": "Blue",
+                  "value": "BLUE"
+                },
+                {
+                  "label": "Green",
+                  "value": "GREEN"
+                },
+                {
+                  "label": "Red",
+                  "value": "RED"
+                }
+              ],
+              "isDisabled": false,
+              "key": "b5xsgr6e1d",
+              "isRequired": false,
+              "rightColumn": 60,
+              "defaultSelectedValues": "BLUE",
+              "widgetId": "rg463g0jue",
+              "isVisible": true,
+              "version": 2,
+              "parentId": "0",
+              "renderMode": "CANVAS",
+              "isLoading": false,
+              "isInline": true
             }
           ]
         },
         "layoutOnLoadActions": [],
         "widgetNames": [
           "Canvas1",
+          "CheckboxGroup1",
           "Container1",
           "MainContainer"
         ],
