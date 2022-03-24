@@ -13,6 +13,73 @@
       "userPermissions": []
     },
     "pageId": "Page1",
+    "actionConfiguration": {
+      "timeoutInMillisecond": 10000,
+      "paginationType": "NONE",
+      "encodeParamsToggle": true,
+      "pluginSpecifiedTemplates": [
+        {
+          "key": "method",
+          "value": "GET"
+        },
+        {
+          "key": "sheetUrl",
+          "value": ""
+        },
+        {
+          "key": "range",
+          "value": ""
+        },
+        {
+          "key": "spreadsheetName",
+          "value": ""
+        },
+        {
+          "key": "tableHeaderIndex",
+          "value": "1"
+        },
+        {
+          "key": "queryFormat",
+          "value": "ROWS"
+        },
+        {
+          "key": "rowLimit",
+          "value": "10"
+        },
+        {
+          "key": "sheetName",
+          "value": "Sheet1"
+        },
+        {
+          "key": "rowOffset",
+          "value": "0"
+        },
+        {
+          "key": "rowObject"
+        },
+        {
+          "key": "rowObjects"
+        },
+        {
+          "key": "rowIndex",
+          "value": "0"
+        },
+        {
+          "key": "deleteFormat",
+          "value": "SHEET"
+        },
+        {
+          "key": "smartSubstitution",
+          "value": true
+        },
+        {
+          "key": "where",
+          "value": [
+            {}
+          ]
+        }
+      ]
+    },
     "executeOnLoad": false,
     "dynamicBindingPathList": [],
     "isValid": true,
