@@ -25,6 +25,10 @@
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
     },
+    "Page1_airtableAPI": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    },
     "Page1_nonAwsS3": {
       "unpublishedUserSetOnLoad": false,
       "publishedUserSetOnLoad": false
