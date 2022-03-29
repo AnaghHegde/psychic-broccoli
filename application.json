@@ -5,6 +5,8 @@
   "color": "#F3F1C7",
   "icon": "moon",
   "evaluationVersion": 2,
+  "applicationVersion": 1,
+  "isManualUpdate": false,
   "createdAt": {
     "seconds": 1644215673,
     "nanos": 630000000
